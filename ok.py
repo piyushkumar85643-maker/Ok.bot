@@ -27,7 +27,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Config Variables
-BOT_TOKEN = "8594619186:AAHSMX7XqDm9IrI-ljzM-vmalOpZow-lSFQ"
+BOT_TOKEN = "8895595443:AAFUTziJoru-zw4tP8ZIsHD-tR9vxGsnlUo"
 API_ID = 33756268  # Replace with your Telegram API ID
 API_HASH = "aea24fa5ab912a74673c0302a0708227"  # Replace with your Telegram API Hash
 OWNER_ID = 8404419009  # Bot Main Owner Numeric ID
